@@ -1,4 +1,8 @@
 {
+    "workspaces": [
+        "apps/*",
+        "packages/*"
+    ],
     "name": "test-monorepo",
     "version": "1.0.0",
     "description": "",
@@ -6,5 +10,8 @@
     "author": "Michael Olawale",
     "devDependencies": {
         "prettier": "^3.2.5"
+    },
+    "engines": {
+        "node": ">=18.0.0"
     }
 }

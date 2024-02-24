@@ -3,6 +3,7 @@ import { ExpoConfig } from 'expo/config';
 const config: ExpoConfig = {
     name: 'rn-client',
     slug: 'rn-client',
+    scheme: 'rn-client',
     version: '1.0.0',
     orientation: 'portrait',
     icon: './assets/icon.png',
@@ -24,8 +25,9 @@ const config: ExpoConfig = {
     },
     web: {
         favicon: './assets/favicon.png',
-        bundler: 'metro',
+     bundler: 'metro',
     },
+    plugins: ['expo-router'],
 };
 
 export default config;
