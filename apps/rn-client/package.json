@@ -9,6 +9,7 @@
         "web": "expo start --web"
     },
     "dependencies": {
+        "@kkfi/ui-components": "workspace:*",
         "expo": "~50.0.7",
         "expo-constants": "~15.4.5",
         "expo-linking": "~6.2.2",
