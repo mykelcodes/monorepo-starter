@@ -1,0 +1,10 @@
+{
+    "name": "test-monorepo",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "author": "Michael Olawale",
+    "devDependencies": {
+        "prettier": "^3.2.5"
+    }
+}
