@@ -7,7 +7,7 @@ A simple monorepo starter kit for personal project. Built with [yarn workspaces]
 ### apps
 
 -   rn-client - a simple react native [expo](https://docs.expo.dev/) app
--   website - a simple [nextjs](https://nextjs.org/docs/getting-started/installation) app designed for SSG in mind
+-   website - a simple [nextjs](https://nextjs.org/docs/getting-started/installation) app designed with SSG in mind
 
 ### packages
 
