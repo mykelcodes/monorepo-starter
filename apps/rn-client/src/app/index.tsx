@@ -1,4 +1,4 @@
-import { Button } from '@kkfi/ui-components';
+import { Button } from '@mykelcodes/ui-components';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
