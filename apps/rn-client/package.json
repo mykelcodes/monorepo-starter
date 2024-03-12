@@ -10,10 +10,10 @@
     },
     "dependencies": {
         "@mykelcodes/ui-components": "workspace:*",
-        "expo": "~50.0.7",
+        "expo": "~50.0.11",
         "expo-constants": "~15.4.5",
         "expo-linking": "~6.2.2",
-        "expo-router": "~3.4.7",
+        "expo-router": "~3.4.8",
         "expo-status-bar": "~1.11.1",
         "expo-system-ui": "~2.9.3",
         "react": "18.2.0",
@@ -24,10 +24,10 @@
         "react-native-web": "~0.19.10"
     },
     "devDependencies": {
-        "@babel/core": "^7.23.9",
-        "@types/react": "~18.2.58",
+        "@babel/core": "^7.24.0",
+        "@types/react": "~18.2.65",
         "@types/react-dom": "~18.0.10",
-        "typescript": "^5.3.3"
+        "typescript": "^5.4.2"
     },
     "private": true
 }
